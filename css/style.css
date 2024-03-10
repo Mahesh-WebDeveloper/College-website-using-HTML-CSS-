@@ -1,0 +1,356 @@
+button:hover {
+
+    background-color: #f18e42;
+    color: #ecf0f1;
+
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.headerTop {
+    background-color: #000000;
+    padding: 10px 0px;
+    padding-left: 40px;
+}
+
+.menuTop li {
+    font-size: 14px;
+    padding: 3px 8px;
+}
+
+.menuTopBorder {
+    border-right: 1px solid gainsboro;
+}
+
+.navLogo {
+    font-size: 28px;
+}
+
+.Navbar {
+    background: #FFFFFF;
+    border-bottom: 5px solid #FF0000
+}
+
+.menu li {
+    margin: 15px 0px;
+}
+
+.navForm {
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.navForm ::-webkit-input-placeholder {
+    font-weight: bold;
+    color: #000000;
+}
+
+.menuText {
+    font-weight: 600;
+}
+
+.section2 {
+    background: url('../img/WhatsApp\ Image\ 2024-01-16\ at\ 14.53.34_03a3ed96.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.section2Heading {
+    font-size: 64px;
+    letter-spacing: 6.4px;
+}
+
+.section2Box {
+    height: 461px;
+}
+
+.scroll {
+    width: 37px;
+    height: 37px;
+    border: 1px solid rgb(113, 106, 106);
+    border-radius: 50%;
+    margin-top: 41px;
+    line-height: 37px;
+}
+
+.scroll:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+
+}
+
+.scroll i {
+    color: #707070;
+}
+
+.scrolh h6 {
+    color: #000000;
+}
+
+
+.secton3Heading {
+    font-size: 48px;
+    color: #145472;
+
+    font: normal normal medium 48px/72px Poppins;
+    letter-spacing: 2.4px;
+
+    opacity: 1;
+}
+
+.redWidth {
+    width: 83px;
+    height: 2px;
+    border: 2px solid #FF0000;
+}
+
+.secton3Text {
+    font-size: 24px;
+    font-weight: normal;
+    color: #000000;
+    margin-top: 29px;
+    top: 810px;
+    left: 562px;
+
+    /* height: 103px; */
+    text-align: center;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.section4 {
+    background: url('../img/WhatsApp\ Image\ 2024-01-16\ at\ 14.11.09_48a34f52.jpg');
+}
+
+.opportunitybtn {
+    background-color: #ECB03D;
+    width: 165px;
+    padding: 18px 0px;
+    border: none;
+    margin: 23px;
+    font-weight: 500;
+    margin-top: 16px;
+    border-radius: 29px;
+}
+
+.opportunitybtn2 {
+    background-color: #ECB03D;
+    padding: 5px 13px;
+    border: none;
+    margin: 0px;
+    top: 950px;
+    left: 717px;
+    text-align: center;
+    font: normal normal medium 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    margin-top: 16px;
+    border-radius: 29px;
+}
+
+.section5Heading {
+    font-size: 28px;
+    margin-bottom: 21px;
+}
+
+.btnBrainiacs {
+    background-color: #ECB03D;
+    padding: 11px 23px;
+    border: none;
+    margin: 21px 0px;
+
+
+}
+
+.studyImg {
+    height: 620px;
+}
+
+.studyText {
+    /* height: 620px; */
+}
+
+.section8 {
+    background-image: url('../img/WhatsApp\ Image\ 2024-01-16\ at\ 14.11.09_48a34f52.jpg');
+    height: 420px;
+}
+
+.boxes {
+    height: 291px;
+    border: 1px solid #707070;
+    border-top: 9px solid #FF0000;
+    margin: 25px 0px;
+}
+
+.boxes h4 {
+    font-size: 28px;
+    margin-top: 84px;
+}
+
+.whiteWidth {
+    width: 100px;
+    height: 7px;
+    background-color: #BEBEBE;
+    margin: 36px 0px;
+}
+
+.footerTop {
+    padding: 46px 0px 43px 0px;
+    background-color: #ECB03D;
+}
+
+.footerTopHeading {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.btnContact {
+    padding: 9px 36px;
+    background-color: white;
+    border-radius: 35px;
+    border: none;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+footer {
+    padding: 43px 0px;
+}
+
+.my {
+    color: #FEBC39;
+}
+
+.myProfile {
+    font-size: 39px;
+}
+
+.mail {
+    font-size: 32px;
+}
+
+.icon {
+    margin: 0px 10px;
+    font-size: 32px;
+    margin-top: 15px;
+}
+
+
+
+.menuTop i {
+    position: absolute;
+    top: 20px;
+    padding-left: 3px;
+    font-size: 9px;
+}
+
+.menuTop ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menuTop li {
+    font-size: 14px;
+    padding: 3px 15px;
+}
+
+.headerTop {
+    padding: 7px 0px;
+}
+
+.secondmenu li {
+    top: 16px;
+    left: 1317px;
+    width: 251px;
+    height: 20px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1
+}
+
+.navcontian {
+    padding-top: -10px;
+}
+
+.search {
+    border: none;
+    outline: none !important;
+}
+
+.section2Heading,
+.secton3Heading {
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.Navbar {
+    border-bottom: 4px #fb8c8c;
+}
+
+.opportunitybtn2 p {
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+    padding: 2px 6px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.cer1img img {
+    height: 450px;
+}
+
+.btnBrainiacs {
+    font-weight: 600;
+}
+
+.section7 h3 {
+    font-size: 40px !important;
+}
+
+.section p {
+    font-size: 20px !important;
+}
+
+.cer2figer img {
+    max-height: 400px !important;
+
+}
+
+.paddingtext {
+    padding-left: -20px !important;
+}
+
+.boxes h4 {
+    font-size: 28px;
+    margin-top: 19px;
+}
+
+.boxes {
+    height: 228px;
+}
+
+.footerTop {
+    padding-top: 21px;
+    padding-bottom: 16px;
+}
+
+.navbar-toggler {
+    position: absolute;
+    top: 10px !important;
+    right: 10px !important;
+}
